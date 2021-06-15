@@ -1,3 +1,3 @@
 # Profiles Rest API   
 
-Profiles REST API sample code.
+Profiles REST API project code.
